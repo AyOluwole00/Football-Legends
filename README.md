@@ -2,11 +2,11 @@
 
 ### 1. copy the link below to your terminal
 
-```https://github.com/Gozie4real/Football-Characters.git```
+```https://github.com/AyOluwole/Football-Legends.git```
 
 ### 2. Navigate to the cloned project
 
-```cd Football-Characters```
+```cd Football-Legends```
 
 ### 3. Install packages
 
